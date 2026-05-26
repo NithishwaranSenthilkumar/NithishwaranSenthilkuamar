@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/MIT%20Chennai-CSE%20'27-%237C3AED.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MIT%20Chennai-CSE%20'28-%237C3AED.svg?style=for-the-badge" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=NithishwaranSenthilkumar&color=c4b5fd&style=for-the-badge&label=Profile+Views" />
 
@@ -40,7 +40,7 @@
 |---|---|
 | 🎓 **University** | Madras Institute of Technology, Chennai |
 | 📖 **Degree** | B.E. Computer Science & Engineering |
-| 📅 **Year** | 2nd Year · Batch of 2027 |
+| 📅 **Year** | 2nd Year · Batch of 2028 |
 | 📍 **Location** | Chennai, Tamil Nadu, India 🇮🇳 |
 | 📬 **Email** | nithish15107@gmail.com |
 
@@ -127,7 +127,7 @@
 ## 🗺️ My Learning Roadmap
 
 ```
-2024 ──────────────────────────────────────────────────────────▶ 2027
+2024 ──────────────────────────────────────────────────────────▶ 2028
   │
   ●── C / C++ Fundamentals          ✅  Done
   ●── Python & Java                  ✅  Done
